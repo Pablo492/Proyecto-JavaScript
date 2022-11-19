@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:rgb(211, 243, 147);;
+}
+/* estilos en el header */
+header{
+    background-image: url(../img/Captura\ de\ Pantalla\ 2022-08-09\ a\ la\(s\)\ 17.57.03.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: auto;
+    border-radius: 25px;
+    color:rgb(228, 252, 180);
+}
+h1{
+    color:rgb(234, 249, 203);
+}
+h2{
+    color:rgb(137, 189, 32);
+}
+
+/* estilos en el main */
+main{
+    background-color:rgb(0, 53, 0);
+    text-align: center;
+    height: 350px;
+}
+
+p{
+    color:rgb(234, 249, 203);
+}
+
+
+/* estilos del footer */
+footer{
+    height: 20px;
+    color:rgb(234, 249, 203);
+    background-color:rgb(0, 53, 0);
+    border-radius: 10px;
+    margin: 10px;
+    font-size: small;
+    text-align:end;
+}
